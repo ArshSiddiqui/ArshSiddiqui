@@ -1,12 +1,11 @@
 Arsh Siddiqui
 ------------
-<p>
-  Somewhat educated individual currently studying CS at Virginia Tech<br>
-  Language Profeciencies: Java; HTML; Python<br>
-  Real Language Proficiencies: English; ~French<br>
-  Hobbies: Language Modeling; Webtoys<br>
-</p>
-
+> Somewhat educated individual currently studying CS at Virginia Tech  
+Language Profeciencies: Java; HTML; Python  
+Real Language Proficiencies: English; ~French  
+Hobbies: Language Modeling; Webtoys  
+  
+  
 <!--
 **ArshSiddiqui/ArshSiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

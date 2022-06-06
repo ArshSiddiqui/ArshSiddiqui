@@ -1,7 +1,7 @@
 Arsh Siddiqui
 ------------
 > Somewhat educated individual currently studying CS at Virginia Tech  
-Language Profeciencies: Java; Python; C; HTML; CSS; JavaScript
+Language Profeciencies: Java; Python; C; HTML; CSS; JavaScript  
 Real Language Proficiencies: English; ~French  
 Hobbies: Language Modeling; Webtoys  
   

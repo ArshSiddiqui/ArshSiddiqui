@@ -1,9 +1,9 @@
 Arsh Siddiqui
 ------------
-> Somewhat educated individual currently studying CS at Virginia Tech  
-Language Profeciencies: Java; Python; C; HTML; CSS; JavaScript  
+Somewhat educated individual currently working as a software engineer at Capital One.  
+Also currently doing an M.Sc. in Data Science at the University of Pennsylvania.  
+Language Proficiencies: Java; Python; C; HTML; CSS; JavaScript  
 Real Language Proficiencies: English; ~French  
-Hobbies: Language Modeling; Webtoys  
   
   
 <!--
